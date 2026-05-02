@@ -17,7 +17,7 @@
 
 <h2>🧠 Overview</h2>
 <p>
-<b>ChurnSenseAI</b> is a machine learning-based system designed to predict whether a customer will churn (leave) or stay with a company. 
+<b>Churn Predictor</b> is a machine learning-based system designed to predict whether a customer will churn (leave) or stay with a company. 
 It helps businesses identify high-risk customers early and take preventive actions.
 </p>
 
