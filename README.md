@@ -176,7 +176,7 @@ print(accuracy_score(y_test, y_pred))
 <h2 align="center">⚡ Final Insight</h2>
 
 <p align="center">
-<b>"Predicting churn is not just about data — it's about understanding customer behavior."</b>
+<b>"Predicting churn is not just about data — it's about understanding customer behaviour."</b>
 </p>
 
 <hr/>
