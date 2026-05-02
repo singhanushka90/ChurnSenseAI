@@ -1,6 +1,6 @@
 <!-- 🔥 HERO BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=200&section=header&text=ChurnSenseAI&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=200&section=header&text=Churn Predictor &fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h1 align="center">📊 Churn Predictor</h1>
