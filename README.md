@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">📊 Churn Predictor</h1>
-<h3 align="center">AI-Powered Customer Churn Prediction System</h3>
+<h3 align="center"> Customer Churn Prediction System</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.9+-blue?style=for-the-badge&logo=python" />
