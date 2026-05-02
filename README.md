@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=200&section=header&text=ChurnSenseAI&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h1 align="center">📊 ChurnSenseAI</h1>
+<h1 align="center">📊 Churn Predictor</h1>
 <h3 align="center">AI-Powered Customer Churn Prediction System</h3>
 
 <p align="center">
