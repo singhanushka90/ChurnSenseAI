@@ -62,9 +62,9 @@ if st.button("Predict Churn"):
     # Show result
     st.divider()
     if prediction[0] == 1:
-        st.error("⚠️ Customer will Churn!")
+        st.error("⚠️ Customer will Churn !")
     else:
-        st.success("✅ Customer will NNOT Churn !")
+        st.success("✅ Customer will not Churn !")
     
     st.write(f"**Churn Probability:** {probability[1]*100:.2f}%")
     st.progress(probability[1])
