@@ -9,7 +9,7 @@ with open('scaler.pkl','rb') as file:
     scaler=pickle.load(file)
 
 st.title("Customer Churn Prediction Model")
-st.markdown("ChurnSenseAI")
+st.markdown("Churn Predictor")
 st.write("Enter customer details to predict if they will churn or not")
 
 col1 , col2=st.columns(2)
